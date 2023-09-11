@@ -1,5 +1,5 @@
 {
-	"name": "Deploy",
+	"name": "DASA<3",
 	"description": "Wa Bot.",
 	"keywords": [
 		"Abu",
@@ -56,7 +56,7 @@
         "STICKER_DATA": {
             "description": "Name of stickers created using bot. Can also split using ;",
             "required": true,
-            "value":"Abu-MD,~Jasil💗"
+            "value":"LEON🖤"
         },
        "BOT_INFO": {
             "description": "Your bot menu info changing ;",
@@ -76,7 +76,7 @@
         "SUDO": {
             "description": "These numbers can control your bot. seperate with commas",
             "required": false,
-            "value":"917025994178"
+            "value":"918982860407"
         },
        "SESSION_ID": {
             "description": "Your MD session",
